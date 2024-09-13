@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #93c5fd;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  background-color: white;
+  padding: 50px;
+  border-radius: 15px;
+}
+.heading {
+  font-size: 40px;
+  font-family: roboto;
+  font-weight: bold;
+}
+.para {
+  font-size: 30px;
+  font-family: roboto;
+  color: #1e293b;
+}
+.label{
+  color: #323f4b;
+  padding-left: 10px;
+}
